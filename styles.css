@@ -93,6 +93,10 @@ body {
     color: hsl(0, 0%, 20%);
 }
 
+.btn:active {
+    background-color: aqua;
+}
+
 @media (min-width: 480px) {
     .container {
         height: 600px;
